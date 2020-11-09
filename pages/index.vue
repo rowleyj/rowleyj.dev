@@ -9,7 +9,7 @@
 							class="my-6 pt-6">
 							<v-avatar size="256">
 								<v-img
-									src="/jesse-rowley.jpeg"
+									src="/rowleyj.dev/jesse-rowley.jpeg"
 									max-height="350"
 									max-width="350"
 								></v-img>
