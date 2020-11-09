@@ -7,13 +7,15 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
+    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.12.2",
     "core-js": "^3.6.5",
     "eslint": "^7.13.0",
     "eslint-plugin-vue": "^7.1.0",
-    "nuxt": "^2.14.6"
+    "nuxt": "^2.14.6",
+    "push-dir": "^0.4.1"
   },
   "devDependencies": {
     "@nuxtjs/vuetify": "^1.11.2"
