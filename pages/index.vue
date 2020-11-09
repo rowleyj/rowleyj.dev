@@ -19,8 +19,7 @@
 							justify="center"
 							class="mx-12 my-4 px-10">
 							<p>Hello! My name is <boldText text="Jesse Rowley"/>, and I am a Hamilton-based developer and entrepreneur. I am currently working
-								on the Unified Communcations Team at BlackBerry as an intern where I focus on developing extensible full stack applications. For <boldText text="Summer 2021"/>, I am open to
-								new internship opportunities including quantum computing, machine learning, project management, or full stack development.</p>
+								on the Unified Communcations Team at BlackBerry as an intern where I focus on developing extensible full stack applications. For <boldText text="Summer 2021"/>, I am open and interested in new internship opportunities ranging from quantum computing, machine learning, project management, to full stack development.</p>
 						</v-row>
 						<v-divider></v-divider>
 						<v-row
